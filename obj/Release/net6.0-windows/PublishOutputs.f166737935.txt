@@ -1,0 +1,5 @@
+D:\Coding\Publishes\Send_Email\Send_Email.exe
+D:\Coding\Publishes\Send_Email\Send_Email.dll
+D:\Coding\Publishes\Send_Email\Send_Email.deps.json
+D:\Coding\Publishes\Send_Email\Send_Email.runtimeconfig.json
+D:\Coding\Publishes\Send_Email\Send_Email.pdb
